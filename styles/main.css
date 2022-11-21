@@ -1,0 +1,21 @@
+main {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+section {
+  background-color: #41436e;
+  border-radius: 8px;
+  width: 370px;
+  padding: 10px;
+  margin: 20px 20px;
+}
+
+section h2 {
+  margin-top: 0;
+}
+
+section a {
+  text-decoration: none;
+  color: #cfcfcf;
+}
